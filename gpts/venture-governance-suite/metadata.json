@@ -1,0 +1,10 @@
+{
+  "name": "venture-governance-suite",
+  "version": "0.1.0",
+  "author": "Tanya Matanda",
+  "description": "Prompt templates and artifacts for governance monitoring and briefing in venture portfolios.",
+  "intended_use": "governance monitoring, board briefing, LP oversight",
+  "limitations": "High-level recommendations only; not legal advice.",
+  "source_files": ["Venture Governance Gpt Suite — One‑page Guide.pdf"],
+  "license": "MIT"
+}

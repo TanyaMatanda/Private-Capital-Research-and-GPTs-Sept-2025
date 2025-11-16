@@ -1,0 +1,10 @@
+{
+  "name": "private-equity-audit",
+  "version": "0.1.0",
+  "author": "Tanya Matanda",
+  "description": "GPT for auditing private equity operational risks and producing governance-ready summaries and checklists.",
+  "intended_use": "internal audit, governance committee briefing, diligence support",
+  "limitations": "Not legal or audit certification. Validate recommendations with domain experts.",
+  "source_files": ["Private Equity Audit & Risk Oversight GPT — One-Page Overview.pdf"],
+  "license": "MIT"
+}
