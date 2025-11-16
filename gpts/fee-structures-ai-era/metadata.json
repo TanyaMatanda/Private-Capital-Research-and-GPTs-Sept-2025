@@ -1,0 +1,10 @@
+{
+  "name": "fee-structures-ai-era",
+  "version": "0.1.0",
+  "author": "Tanya Matanda",
+  "description": "Assist with designing fee structures and incentive alignment for AI-enabled strategies.",
+  "intended_use": "fee design and governance discussions",
+  "limitations": "Not legal or tax advice.",
+  "source_files": ["Fee Structures for the AI Era: When Incentives Meet Intelligence.pdf"],
+  "license": "MIT"
+}

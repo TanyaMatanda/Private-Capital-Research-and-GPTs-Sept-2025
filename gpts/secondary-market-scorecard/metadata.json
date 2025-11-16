@@ -1,0 +1,10 @@
+{
+  "name": "secondary-market-scorecard",
+  "version": "0.1.0",
+  "author": "Tanya Matanda",
+  "description": "Generates a one-page scorecard and alpha opportunity checklist for secondary market deals.",
+  "intended_use": "secondary market screening and briefing",
+  "limitations": "High-level screening tool; requires validation with market data.",
+  "source_files": ["Secondary Market Alpha Opportunity Scorecard — One‑page Overview.pdf", "Secondary Market AI Pricing Opportunities.pdf"],
+  "license": "MIT"
+}

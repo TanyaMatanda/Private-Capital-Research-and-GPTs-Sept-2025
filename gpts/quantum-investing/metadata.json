@@ -1,0 +1,10 @@
+{
+  "name": "quantum-investing",
+  "version": "0.1.0",
+  "author": "Tanya Matanda",
+  "description": "Assistant that summarizes quantum investing concepts and produces short investor briefs.",
+  "intended_use": "investor education and research briefs",
+  "limitations": "High-level educational material only; not investment advice.",
+  "source_files": ["Quantum Investing for Individual Investors — One-Page Overview.pdf"],
+  "license": "MIT"
+}
